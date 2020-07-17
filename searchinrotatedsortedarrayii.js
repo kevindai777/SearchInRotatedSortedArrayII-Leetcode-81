@@ -3,7 +3,7 @@
 let nums = [2,5,6,0,0,1,2], target = 0
 
 
-//Same solution as the first question, except now we have an extra check statement
+//O(logn) solution that is similar as the first question, except now we have an extra check statement
 //to remove duplicates
 
 let low = 0
